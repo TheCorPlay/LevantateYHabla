@@ -27,4 +27,4 @@ Además, hemos iniciado una colaboración con [NACE](https://www.noalacoso.org/)
 
 ***
 
-Si quieres saber más sobre nuestro proyecto, pásate por nuestra [Wiki Levantate y Habla](http://wikis.fdi.ucm.es/ELP/Trabajo:_Levantate_y_Habla) o por nuestra [Página Web Levantate y Habla] (https://levantateyhablaelp.wordpress.com/)
+Si quieres saber más sobre nuestro proyecto, pásate por nuestra [Wiki Levantate y Habla](http://wikis.fdi.ucm.es/ELP/Trabajo:_Levantate_y_Habla) o por nuestra [Página Web Levantate y Habla](https://levantateyhablaelp.wordpress.com/)
